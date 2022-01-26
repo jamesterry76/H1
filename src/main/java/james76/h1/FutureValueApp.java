@@ -18,6 +18,7 @@ public class FutureValueApp {
      */
     public static void main(String[] args) {
         System.out.println("Welcome to the Future Value Calculator");
+        System.out.println("Please enter number values only!!");
         System.out.println();
 
         // get a Scanner object to scan for user input
